@@ -2,6 +2,7 @@ Puppet:
 ======
 
 1. PHP class for remote control (puppet_management.php)
+
 Since the Internet ready solution for remote control puppet server, in particular the signing and deleting certificates, I have not found - sketched your php class.
 
 Full API is available on the link Puppet API (http://docs.puppetlabs.com/guides/rest_api.html)
