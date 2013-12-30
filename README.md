@@ -7,6 +7,7 @@ Full API is available on the link Puppet API (http://docs.puppetlabs.com/guides/
 
 In order to control possible, you need to edit auth.conf on puppet server:
 
+--------------------------------------------------------------------------
 
 path  /certificate_statuses
 
@@ -23,3 +24,5 @@ auth any
 method find, search, save, destroy
 
 allow localhost, puppet_remote_management
+
+--------------------------------------------------------------------------
